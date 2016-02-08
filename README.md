@@ -1,5 +1,6 @@
 # Questions
 Interview Questions.
+
 A) What is JIT?
 
 B) What is constructor?
@@ -18,3 +19,4 @@ H) How can we create immutable class in java?
 
 I) Is there any difference between nested classes and inner classes?
 
+J) What is SOAP and what is REST?
