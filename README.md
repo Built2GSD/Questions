@@ -20,3 +20,15 @@ H) How can we create immutable class in java?
 I) Is there any difference between nested classes and inner classes?
 
 J) What is SOAP and what is REST?
+
+K) Explain Private, Protected, Internal, and Public.
+
+L) What is Out, Ref, Val?
+
+M) What is Encapsulation?
+
+N) Explain Virtual and Abstract Functions.
+
+Behavioral Questions:
+
+1) Tell me about yourself.
