@@ -29,6 +29,12 @@ M) What is Encapsulation?
 
 N) Explain Virtual and Abstract Functions.
 
+O) Why is String final in Java?
+
+
+
 Behavioral Questions:
 
 1) Tell me about yourself.
+
+2)
