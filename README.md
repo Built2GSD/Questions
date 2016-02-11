@@ -37,4 +37,15 @@ Behavioral Questions:
 
 1) Tell me about yourself.
 
-2)
+2) Why do you want to work here?
+
+3) Why should we hire you?
+
+4) Why are you leaving your current job?
+
+5) Where do you see yourself in 5 years?
+
+6) What do you do outside of work?
+
+7) What are your strengths and weaknesses?
+
