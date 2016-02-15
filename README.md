@@ -35,6 +35,8 @@ P)  What is the difference between JRE, JDK, JVM and JIT?
 
 Q)  Explain Java Heap space and Garbage collection.
 
+R) What is a Hash Table?
+
 
 Behavioral Questions:
 
