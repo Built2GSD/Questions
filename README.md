@@ -31,11 +31,15 @@ N) Explain Virtual and Abstract Functions.
 
 O) Why is String final in Java?
 
-P)  What is the difference between JRE, JDK, JVM and JIT?
+P) What is the difference between JRE, JDK, JVM and JIT?
 
-Q)  Explain Java Heap space and Garbage collection.
+Q) Explain Java Heap space and Garbage collection.
 
 R) What is a Hash Table?
+
+S) What is Recursion.
+
+T) Explain multi-threading.
 
 
 Behavioral Questions:
