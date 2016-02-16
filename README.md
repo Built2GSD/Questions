@@ -41,6 +41,8 @@ S) What is Recursion.
 
 T) Explain multi-threading.
 
+U) What is Cygwin or Bash or Putty?
+
 
 Behavioral Questions:
 
