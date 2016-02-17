@@ -1,7 +1,7 @@
 # Questions
 Interview Questions.
 
-A) What is JIT?
+A) What is OOP?
 
 B) What is constructor?
 
