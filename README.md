@@ -43,6 +43,10 @@ T) Explain multi-threading.
 
 U) What is Cygwin or Bash or Putty?
 
+V) What is cloud computing?
+
+W) What is Full-Stack?
+
 
 Behavioral Questions:
 
