@@ -47,6 +47,8 @@ V) What is cloud computing?
 
 W) What is Full-Stack?
 
+X) What is Cohesion and Coupling?
+
 
 Behavioral Questions:
 
