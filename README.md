@@ -20,7 +20,7 @@ Answer:
 I) Is there any difference between nested classes and inner classes?
 Answer:
 J) What is SOAP and what is REST?
-Answer:
+Answer: Simple Object Access Protocol vs Representational State Transfer.
 K) Explain Private, Protected, Internal, and Public.
 Answer:
 L) What is Out, Ref, Val?
