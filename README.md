@@ -2,25 +2,33 @@
 Interview Questions.
 
 A) What is OOP?
+
 Answer: It stands for Object-oriented Programming, which is a programming model in which code is written as objects. Data becomes an object and functions (operations) become an object.
 
 B) What is constructor?
+
 Answer:
 C) What is the purpose of default constructor?
+
 Answer:
 
 D) Does constructor return any value?
+
 Answer:
 E) What is Inheritance?
+
 Answer: The borrowing of conditions an behavior from other classes. Having "Pets" as a superclass and "Dogs" and "Cats" as the subclass because the "inherit" aspects of what is defined by "Pets". class Dogs extends Pets {}
 
 F) What is Polymorphism?
+
 Answer:
 
 G) What is the difference between abstraction and encapsulation?
+
 Answer:
 
 H) How can we create immutable class in java?
+
 Answer:
 
 I) Is there any difference between nested classes and inner classes?
@@ -82,7 +90,11 @@ Behavioral Questions:
 
 1) Tell me about yourself.
 
+Answer:
+
 2) Why do you want to work here?
+
+Answer:
 
 3) Why should we hire you?
 
