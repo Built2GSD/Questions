@@ -90,19 +90,28 @@ Behavioral Questions:
 
 1) Tell me about yourself.
 
-Answer:
+Answer: I started with publishing websites and web applications. My curiousity got me into c++, C#, and Java coding; while work put me into multiple roles in business analysis, full-stack, and development.
 
 2) Why do you want to work here?
 
-Answer:
+Answer: Make to research the company and what you would be doing before answering.
 
 3) Why should we hire you?
 
+Answer: Use research to find out why you can ease their pain.
+
+Helpful: http://career-advice.monster.com/job-interview/interview-questions/why-should-we-hire-you/article.aspx
+
 4) Why are you leaving your current job?
+
+Answer: More opportunity and shorter commute.
 
 5) Where do you see yourself in 5 years?
 
+Answer:
+
 6) What do you do outside of work?
 
+Answer:
 7) What are your strengths and weaknesses?
 
