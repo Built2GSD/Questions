@@ -21,7 +21,7 @@ Answer: The borrowing of conditions an behavior from other classes. Having "Pets
 
 F) What is Polymorphism?
 
-Answer:
+Answer: The ability to process objects differently based on their data type or class (mostly on redefing methods for derived classes). Example: Having a class named pets and having a method called speak.
 
 G) What is the difference between abstraction and encapsulation?
 
