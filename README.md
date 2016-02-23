@@ -49,6 +49,7 @@ W) What is Full-Stack?
 
 X) What is Cohesion and Coupling?
 
+YY) What is unicode and what is it for?
 
 Behavioral Questions:
 
