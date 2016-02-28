@@ -51,6 +51,8 @@ X) What is Cohesion and Coupling?
 
 YY) What is unicode and what is it for?
 
+ZZ) What is command line interface and how do you use it?
+
 Behavioral Questions:
 
 1) Tell me about yourself.
