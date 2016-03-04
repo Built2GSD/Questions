@@ -53,6 +53,8 @@ YY) What is unicode and what is it for?
 
 ZZ) What is command line interface and how do you use it?
 
+AA) What is a benefit of Client-Side and Server-Side Validation?
+
 Behavioral Questions:
 
 1) Tell me about yourself.
