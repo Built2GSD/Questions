@@ -117,5 +117,17 @@ Answer:
 
 8) Explain: MVC, MVP and MVVM Design Patterns
 
-
 Source: http://www.dotnet-tricks.com/Tutorial/designpatterns/2FMM060314-Understanding-MVC,-MVP-and-MVVM-Design-Patterns.html
+
+9) Explain:
+
+    Abstract Factory Pattern: Create instances of classes belonging to different families
+    Builder Pattern: Separate representation and object construction
+    Factory Method Pattern: Create instances of derived classes
+    Prototype Pattern: Clone or copy initialized instances
+    Singleton Pattern: Class with only one single possible instance
+	
+
+Source: https://csharpdesignpatterns.codeplex.com/
+
+
