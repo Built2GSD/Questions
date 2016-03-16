@@ -135,4 +135,10 @@ Source: https://csharpdesignpatterns.codeplex.com/
 
 http://www.dofactory.com/net/design-patterns
 
+11) Name 10 new Tags in HTML5:
+
+12) Give examples of CSS:
+
+13) Create a layered CSS Tile of 360*480.
+
 
