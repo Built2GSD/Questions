@@ -130,4 +130,9 @@ Source: http://www.dotnet-tricks.com/Tutorial/designpatterns/2FMM060314-Understa
 
 Source: https://csharpdesignpatterns.codeplex.com/
 
+10) Who are GoF (Gang of Four)?
+
+
+http://www.dofactory.com/net/design-patterns
+
 
