@@ -5,7 +5,11 @@ A) What is OOP?
 
 Answer: It stands for Object-oriented Programming, which is a programming model in which code is written as objects. Data becomes an object and functions (operations) become an object.
 
+More:  Object-oriented programming is really a model of organizing the code around objects and data. Much like a car has wheels, and is often designed with is built with three main areas: engine, passenger, cargo.  
+
 B) What is constructor?
+Answer: It is method, albeit a special one that creates an instance of the class it is named after; it can be used to set the values of the members of an object. 
+A constructor is supposed to create an instance of a class.
 
 Answer:
 C) What is the purpose of default constructor?
@@ -22,6 +26,7 @@ Answer: The borrowing of conditions an behavior from other classes. Having "Pets
 F) What is Polymorphism?
 
 Answer: The ability to process objects differently based on their data type or class (mostly on redefing methods for derived classes). Example: Having a class named pets and having a method called speak.
+
 
 G) What is the difference between abstraction and encapsulation?
 
