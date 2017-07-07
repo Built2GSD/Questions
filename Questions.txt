@@ -90,6 +90,19 @@ Answer: The process (or concept) of picking out common features of objects and p
 Y) What is a Class?
 Answer: Objects categorized. It defines the common properties of the objects that belong to said class.
 
+Z) What does extends mean?
+Answer: In Java it used to allow a subclass to inherit and ovverride code defined in the supertype/superclass.
+
+A2) What is the difference between interface and abstract?
+Answer:
+Video Link: https://www.youtube.com/watch?v=nNwZN3OVcw
+Source Link: 
+
+
+A2) What is the difference between interface and abstract?
+Answer:
+Video Link: https://www.youtube.com/watch?v=nNwZN3OVcw
+Source Link: 
 
 Behavioral Questions:
 
